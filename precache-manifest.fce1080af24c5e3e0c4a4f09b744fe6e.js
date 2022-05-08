@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "85e86bae506f3ffb80a4",
-    "url": "/contractPic/static/js/main.85e86bae.chunk.js"
+    "revision": "089114a0ee1caba36276",
+    "url": "/contractPic/static/js/main.089114a0.chunk.js"
   },
   {
     "revision": "a36a6d3a3e2a975f430d",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/contractPic/static/media/mintbackground.0a441a89.jpg"
   },
   {
-    "revision": "5dcd5b347a552d0a8f3d6904a8b00de9",
+    "revision": "6493050c0d5b455e4625a116b6ae5ca4",
     "url": "/contractPic/index.html"
   }
 ];
